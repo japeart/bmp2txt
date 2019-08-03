@@ -7,4 +7,6 @@ To make this process easier, I have created this handy tool. To convert a black 
 
 Usage: ./bmp2txt input_file output_filename tile_width tile_height
 
+Output is to the executable folder to the txt file specified by {output_filename}.
+
 The SDL2 library is required for compilation.
