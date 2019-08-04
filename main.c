@@ -1,6 +1,7 @@
 /*
- * Utility for converting BMP font sheets to 8 bit ASCII files for use with assembly
- * like the speccy
+ * Utility for converting BMP font sheets to ASCII tiles for use with 
+ * assembly language games or anywhere else you want to define gfx in 
+ * binary (like Z80 progrmming for the speccy)
  */
 
 #include "SDL2/SDL.h"
