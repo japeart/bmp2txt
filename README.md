@@ -1,5 +1,5 @@
 # bmp2txt
-Convert a BMP font sheet to ASCII tiles ready for import into your project
+Convert a BMP font sheet into ASCII tiles for handy import into your project
 
 Do you program in assembly for old computers such as the ZX Spectrum or Atari 2600? Do you use .bmp fontsheets at all? Have you ever wanted to convert these fontsheets to ASCII for easy import into your retro projects? Well, I have.
 
